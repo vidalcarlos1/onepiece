@@ -22,4 +22,4 @@ Tela responsiva para tablet/celular
 
 ## Treinamento
 * Roberto Dias e Ricardo Dias
-[* Link do projeto: https://aluraplus-one-kappa.vercel.app/](https://onepiece-sepia.vercel.app/)https://onepiece-sepia.vercel.app/
+* Link do projeto: https://onepiece-sepia.vercel.app/
